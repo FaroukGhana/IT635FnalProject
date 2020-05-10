@@ -11,12 +11,19 @@ The intention of this project is to permit unauthorized personnel to go into the
 
 The localhost window opens and prompt a log in. One would log into the system with one of the employees' username and password created in the database.
 for example; In the database I created Abdul Farouk with "abdul1" as his username and "A123" as his password. This login will open up Abdul's personal information is as follows:
+
 Employee_ID:1
+
 First_Name:Abdul
+
 Last_Name:Farouk
+
 salary:28600
+
 Department ID:5
+
 Department Name:Cybersecurity
+
 Department Location:New Jersey
 
  The information shown above is abdul's data created in the database. The only way one could have access to Abdul's data would be Abdul himself, HR administrator or Abdul's superiors at work. In a nutshell, those who are required to view Abdul's data.
